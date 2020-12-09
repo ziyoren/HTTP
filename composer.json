@@ -1,0 +1,19 @@
+{
+  "name": "ziyoren/http",
+  "description": "Http Message for Swoole",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Sunline",
+      "email": "asun@66580.cn"
+    }
+  ],
+  "minimum-stability": "dev",
+  "require": {},
+  "autoload": {
+    "psr-4": {
+      "ziyoren\\": "src/"
+    },
+    "files": []
+  }
+}
